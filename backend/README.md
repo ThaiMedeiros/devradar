@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="../.imagens/web-devradar.png" alt="Web DevRadar" title="Web DevRadar" style="vertical-align:top; margin:6px 4px;" width="50%">
+  <img src="../.imagens/backend-devradar.png" alt="Backend DevRadar" title="Backend DevRadar" style="vertical-align:top; margin:6px 4px;" width="50%">
 </p><br />
 
-# Web DevRadar
+# Backend DevRadar
 
-- Projeto Web do DevRadar.
+- Projeto Backend do DevRadar.
 
 <br />
 
